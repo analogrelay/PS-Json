@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Types>
+    <Type>
+        <Name>PsJson.JsonObject</Name>
+        <TypeAdapter>
+            <TypeName>PsJson.JsonTypeAdapter</TypeName>
+        </TypeAdapter>
+    </Type>
+</Types>
